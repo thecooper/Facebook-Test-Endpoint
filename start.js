@@ -6,4 +6,5 @@ var server = http.createServer(function(res,req) {
 
 server.listen(80, function(){
 	console.log("server listening on port 80");
+	
 })
